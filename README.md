@@ -2,12 +2,9 @@
 
 A collection of weekly HW code snippets for my class.
 
+## File & Folder Structure
 
-## Week 1 Lesson
-
-Week 0 was spent getting to know classmates and the expectations of the class.
-
-## Week 2
-
-TBA
-  
+- Each week will have its own folder
+  - ex: Module 1.. => `week1/`
+- Each assignment will have its own file
+  - ex: 2.9: Assigment 1... => `A1.js`
