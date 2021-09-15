@@ -1,4 +1,4 @@
-//* Assignment 1
+//* 2.9: Assignment I: Code Examples and Portfolio Start
 //Constant O(1)
 function returnArrayIndexValue(array, key) {
   return array[key];
@@ -20,7 +20,7 @@ function nestedLoop(mdArray) {
 
 console.log(returnArrayIndexValue([1, 2, 3, 4, 5], 3)); // returns 4
 
-greetWorld(5);
+greetWorld(5); // prints "Hello, world!" to console.
 
 const myArray = [
   [1, 2, 3],
@@ -28,4 +28,4 @@ const myArray = [
   [8, 9, 0],
 ];
 
-nestedLoop(myArray);
+nestedLoop(myArray); // prints 1-0 sequentially in the console
