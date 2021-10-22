@@ -22,3 +22,8 @@ This week I made forward progress on discovery and opted to pivot and follow a c
 4. Start Front-End
    - open a new terminal and run `npm run dev`
    - ensure you have MetaMask wallet plugin on your browser to import hardhat test wallets
+
+## Acknowledgements
+
+- [Tutorial Article Used](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
+- [Tutorial Video Used](https://www.youtube.com/watch?v=GKJBEEXUha0)
