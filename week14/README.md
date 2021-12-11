@@ -1,6 +1,6 @@
 # Week 14 :: Assignment 7: Trees
 
-This week we learned about Depth First Search and Breadth First Search
+This week we learned about Depth First Search.
 
 ## Running Items
 1. Ensure you have Node 14+ installed
